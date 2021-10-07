@@ -36,4 +36,4 @@ Click [here](https://github.com/sudhanvalalit/Chroniques-Desktop-App/blob/main/C
 
 ### Contact Us
 
-    Please send an email to: [Chroniques Desktop - Email](mailto:chroniquesdesktop@gmail.com).
+ Please send an email to: [Chroniques Desktop - Email](mailto:chroniquesdesktop@gmail.com).
