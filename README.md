@@ -32,4 +32,4 @@ Chroniques is a MS Windows based desktop app for journaling. It has a rich text 
 
 ## Contact Us:
 
-    Please send an email to: [Chroniques Desktop - Email](mailto:chroniquesdesktop@gmail.com).
+ Please send an email to: [Chroniques Desktop - Email](mailto:chroniquesdesktop@gmail.com).
