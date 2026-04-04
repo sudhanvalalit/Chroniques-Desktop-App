@@ -3,6 +3,12 @@ name: Update Website From Latest Release
 on:
   release:
     types: [published, edited]
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/update-website-from-release.yml
+      - .github/scripts/generate_site.py
   workflow_dispatch:
 
 permissions:
