@@ -59,3 +59,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./site
           force_orphan: true
+          enable_jekyll: true
